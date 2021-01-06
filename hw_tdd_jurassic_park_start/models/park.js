@@ -1,6 +1,6 @@
 const Park = function(name, ticketPrice) {
     this.name = name;
-    this.ticketPrice = price;
+    this.ticketPrice = ticketPrice;
     this.dinosaurCollection = [];
 }
 
